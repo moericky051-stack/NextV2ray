@@ -1,0 +1,6 @@
+{
+  "name": "Next V2ray VPN",
+  "description": "High-speed V2ray VPN client with built-in servers (VLESS, VMess, Trojan, Shadowsocks), latency ping test, subscription import, speed meter, and routing controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
